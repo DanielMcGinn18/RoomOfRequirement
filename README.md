@@ -3,4 +3,6 @@
 
 This project was part of a larger project to develop a “Marauder’s App,” a joint venture between Tufts School of Engineering and Hogwarts School of Witchcraft and Wizardry
 
-The LabVIEW code utilizes the Google Cloud Speech-to-Text API to recognize a password. If the correct password is spoken, a MyRio turns a high torque servo to open the door. It works like a charm!
+This LabVIEW code utilizes the Google Cloud Speech-to-Text API to recognize a password. If the correct password is spoken, a MyRio turns a high torque servo to open the door. It works like a charm!
+
+The Marauder's App used to track activities on Tufts Campus can be viewed <a href="https://tuftsmaraudersmap.github.io/">here</a> on google chrome 
