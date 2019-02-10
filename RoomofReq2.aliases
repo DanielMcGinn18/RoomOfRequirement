@@ -1,0 +1,15 @@
+[My Computer]
+My Computer = "130.64.154.56"
+
+[myRIO]
+myRIO = "172.22.11.2"
+
+[RT myRIO Target]
+RT myRIO Target = "130.64.219.109"
+
+[RT myRIO Target 2]
+RT myRIO Target 2 = "130.64.188.165"
+
+[WALL-E]
+WALL-E = "172.22.11.10"
+
